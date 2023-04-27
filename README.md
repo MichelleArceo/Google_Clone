@@ -2,10 +2,10 @@
 Google clone using HTML and CSS bootcamp de Tecnolochicas
 
 ## INDICE
-* [Intro]()
-* [Enfoque]()
-* [Objetivo del proyecto]()
-* [Link al demo]()
+* [Intro](https://github.com/MichelleArceo/Google_Clone#intro)
+* [Enfoque](https://github.com/MichelleArceo/Google_Clone#enfoque)
+* [Objetivo del proyecto](https://github.com/MichelleArceo/Google_Clone#objetivo-del-proyecto)
+* [Link al demo](https://github.com/MichelleArceo/Google_Clone#link-al-demo)
 
 ## Intro
 HTML O HyperText Markup Languaje junto con CSS se utilizan para crear paginas web que usamos todos los dias en el navegador. Se utilizo HTML y CSS para construir una clonacion de la interfaz inicial de Google.
@@ -21,4 +21,4 @@ El proyecto esta enfocado en la construccion de la interfaz de bienvenida de Goo
 Aprender a utilizar las etiquetas de HTML y las propiedades de CSS, asi como identificar componentes base de una pagina web.
 
 ## Link al demo
-Aqui se puede visualizar el proyecto terminado de [Clonacion de Google]()
+Aqui se puede visualizar el proyecto terminado de [Clonacion de Google](https://github.com/MichelleArceo/Google_Clone#link-al-demo)
