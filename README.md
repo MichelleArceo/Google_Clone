@@ -16,3 +16,9 @@ El proyecto esta enfocado en la construccion de la interfaz de bienvenida de Goo
 * Header: Incluye la navegacion proncipal de Google, iconos, menu y foto de la usuaria.
 * Main: Contenedor para los elementos centrales y mas importantes de la interfaz: Logo, barra de busqueda, iconos y botones.
 * Footer: Contiene informacion extra para el usuario asi como hipervinculos.
+
+## Objetivo del proyecto
+Aprender a utilizar las etiquetas de HTML y las propiedades de CSS, asi como identificar componentes base de una pagina web.
+
+## Link al demo
+Aqui se puede visualizar el proyecto terminado de [Clonacion de Google]()
