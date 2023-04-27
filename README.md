@@ -1,5 +1,5 @@
-# michellearceo.github.io
-Google clone using HTML and CSS bootcamp de Tecnolochicas
+# Google_Clone
+Google clone using HTML5 and CSS3 en el bootcamp de Tecnolochicas
 
 ## INDICE
 * [Intro](https://github.com/MichelleArceo/Google_Clone#intro)
