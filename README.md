@@ -1,2 +1,2 @@
 # michellearceo.github.io
-Google clone using HTML and CSS
+Google clone using HTML and CSS bootcamp de Tecnolochicas
