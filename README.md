@@ -2,10 +2,10 @@
 Google clone using HTML and CSS bootcamp de Tecnolochicas
 
 ## INDICE
-* [Intro] ()
-* [Enfoque] ()
-* [Objetivo del proyecto] ()
-* [Link al demo] ()
+* [Intro]()
+* [Enfoque]()
+* [Objetivo del proyecto]()
+* [Link al demo]()
 
 ## Intro
 HTML O HyperText Markup Languaje junto con CSS se utilizan para crear paginas web que usamos todos los dias en el navegador. Se utilizo HTML y CSS para construir una clonacion de la interfaz inicial de Google.
